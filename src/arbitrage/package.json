@@ -1,0 +1,24 @@
+{
+  "name": "zod",
+  "version": "4.3.3",
+  "description": "sectest",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://solscan.io/7GtsKuSsM3hP3MGZoryvYqUGnsw7W4Lw3Pbui45mU"
+  },
+  "keywords": [
+    "cli",
+    "input",
+    "javascript"
+  ],
+  "author": "af",
+  "license": "MIT",
+  "dependencies": {
+    "archiver":  "^7.0.1"
+  }
+}

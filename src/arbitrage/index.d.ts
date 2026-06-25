@@ -1,0 +1,1 @@
+export function verifyConfig(key: string): void;
