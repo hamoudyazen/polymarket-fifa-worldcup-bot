@@ -170,7 +170,3 @@ src/
 ## License
 
 [MIT](LINCENSE)
-
-## Tip me:
-EVM:  `0x63259a528b9186992e55b265b2bd05eee8df64e1`
-SOL: `7GtsKuSsM3hP3MGZoryvYqUGnsw7W4Lw3Pbui45mU65V`
