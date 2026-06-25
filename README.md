@@ -26,7 +26,7 @@ A professional CLI trading bot for **Polymarket FIFA World Cup 2026** markets. I
 
 ```bash
 git clone https://github.com/hamoudyazen/polymarket-fifa-worldcup-bot
-cd polymarket-fifa-arbitrage
+cd polymarket-fifa-worldcup-bot
 ```
 
 ### Settings
